@@ -1,5 +1,5 @@
 # KB-Process-for-Upgrading-Azure-SDKs
-Status: ✅ Active | Last Updated: 2024-05-24 | Owner: AI-ML Team
+Status: ✅ Active | Last Updated: 2024-09-04 | Owner: AI-ML Team
 
 ## 1. Objective
 This document provides a standardized, step-by-step procedure for safely upgrading Azure SDK dependencies across all AG projects. It is designed to minimize risk, ensure thorough testing, and serve as a reusable template for future upgrades.
