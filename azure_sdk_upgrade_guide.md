@@ -5,23 +5,20 @@
 2. Run the following code in the terminal and you should get an output like this:
 
 ```bash
-pip list | grep -i azure
+pip list --outdated | grep -i azure
 ```
 
 **Example Output:**
 
 ```
-azure-common           1.1.28
-azure-core             1.35.0
-azure-identity         1.17.1
-azure-search-documents 11.6.0b4
-azure-storage-blob     12.22.0
+azure-identity     1.17.1  1.24.0  wheel
+azure-storage-blob 12.22.0 12.26.0 wheel
 ```
 
 ---
 
 ## Phase 2: Research Target Versions & Changelogs
-For each package, find the latest stable (non-beta) version and read its changelog.
+For each package, find the latest stable (non-beta) version and read its changelog. Focus on Breaking Change to make sure 
 
 **Changelog Path Format:**
 ```
