@@ -19,6 +19,8 @@ The same principles apply: isolate, research changelogs, test, fix.
 ---
 
 # Document Info
-- **Document ID:** KB-AZSDKUPDT-001  
+- **Document ID:** KB-AZSDKU-001  
 - **Changelog:**
-  - 2024-05-24: Created by Hema Varssini Segar - AI-ML Team. Approved by Nuzli Anas.
+  - 2024-09-04: Created by Hema Varssini Segar - AI-ML Team.
+  - 2025-09-04: Approved by Nuzli Anas.
+  - _add new changelog below_
